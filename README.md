@@ -1,4 +1,4 @@
-Hi, My name is Joe and I am currently a Junior at WSU (Dayton Campus) studying BACS.
+Hi, My name is Joe and I am currently a Senior at WSU (Dayton Campus) studying BACS.
 
 <!---
 JoeClaborn/JoeClaborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
